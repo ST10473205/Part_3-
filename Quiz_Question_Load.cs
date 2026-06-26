@@ -10,7 +10,7 @@ namespace demo
             {
                 new Question_in_quiz
                 {
-                    Text = "What phishing  involves?",
+                    Text = "What phishing  involves? =)",
                     correctAnswer = "Tricking users to steal sensitive data",
                     wrongAnswer = new List<string>
                     {

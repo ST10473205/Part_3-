@@ -14,7 +14,7 @@ namespace demo
                     correctAnswer = "Tricking users to steal sensitive data",
                     wrongAnswer = new List<string>
                     {
-                        "System backup process",
+                        "System back up process",
                         "Secure login method",
                         "Password encryption tips"
                     }

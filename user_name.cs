@@ -32,7 +32,7 @@ namespace demo
             return name;
         }
 
-        // Check if username exists in file
+        // Check if usename exists in file
         private bool check_name(string name)
         {
             string filename = "user_names.txt";
